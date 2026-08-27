@@ -1,0 +1,9 @@
+# Foundry / Hardhat / node
+cache/
+out/
+artifacts/
+node_modules/
+.env
+.env.*
+broadcast/
+typechain-types/
